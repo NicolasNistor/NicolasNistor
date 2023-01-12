@@ -1,19 +1,18 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
-  <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;FullStack%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;FullStack%20Developer;11%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-  I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  I am a capable Full-Stack web developer with over 11 years of software development experience using JavaScript and Python. 
 
-And, I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+Since I started developing with basic C++/Java as mentioned in Algorithms and Data Structures, I am familiar with the programming logic and can work at least twice as fast as the mid-level developer.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+I try to keep the project structure and coding style as good as possible, and quality improvement is the final goal.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
+The rich development experience of Node.js and Django can ensure maintainability and improvement with a well-designed structure and logic in back-end development.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+Because of a complete understanding of various libraries and Front-End frameworks based on JavaScript and TypeScript(React.js, Vue.js, AngularJS, Angular) there is no difficulty in development.
 
-I had already built so many Websites with the mentioned skill.
 
 ## My Skill Set  
 <br />
@@ -34,12 +33,6 @@ I had already built so many Websites with the mentioned skill.
 
 💗 **My Favorites Techs:**
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
@@ -60,8 +53,9 @@ I had already built so many Websites with the mentioned skill.
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- [📞 TG](https://t.me/sm_software_engineer)
-- [📝 Email](mailto:sm.ict.engineer@gmail.com)
+- [📞 TG](https://t.me/nicolasnistor)
+- [📝 Email](mailto:nicolas.ro.nistor@gmail.com)
+- [ Skype](https://join.skype.com/invite/thDX7kMbdXKD)
 
 
 
