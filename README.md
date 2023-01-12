@@ -38,7 +38,7 @@ Because of a complete understanding of various libraries and Front-End framework
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Node-informational?style=flat&logo=node&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Node-informational?style=flat&logo=nodejs&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
