@@ -14,7 +14,7 @@ The rich development experience of Node.js and Django can ensure maintainability
 Because of a complete understanding of various libraries and Front-End frameworks based on JavaScript and TypeScript(React.js, Vue.js, AngularJS, Angular) there is no difficulty in development.
 
 
-## My Skill Set  
+## Skill HighLight
 <br />
 
 **Languages and Tools:**
@@ -31,7 +31,7 @@ Because of a complete understanding of various libraries and Front-End framework
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
-💗 **My Favorites Techs:**
+**Technical Stacks:**
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
@@ -42,7 +42,7 @@ Because of a complete understanding of various libraries and Front-End framework
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
@@ -58,7 +58,7 @@ Because of a complete understanding of various libraries and Front-End framework
 
 - [📞 TG](https://t.me/nicolasnistor)
 - [📝 Email](mailto:nicolas.ro.nistor@gmail.com)
-- [ Skype](https://join.skype.com/invite/thDX7kMbdXKD)
+- [💬 Skype](https://join.skype.com/invite/thDX7kMbdXKD)
 
 
 
