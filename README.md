@@ -56,9 +56,4 @@ Because of a complete understanding of various libraries and Front-End framework
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- [📞 TG](https://t.me/nicolasnistor)
-- [📝 Email](mailto:nicolas.ro.nistor@gmail.com)
-- [💬 Skype](https://join.skype.com/invite/thDX7kMbdXKD)
-
-
 
