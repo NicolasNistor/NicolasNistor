@@ -3,14 +3,11 @@
   <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;FullStack%20Developer;11%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-  I am a capable Full-Stack web developer with over 11 years of software development experience using JavaScript and Python. 
 
 Since I started developing with basic C++/Java as mentioned in Algorithms and Data Structures, I am familiar with the programming logic and can work at least twice as fast as the mid-level developer.
-
 I try to keep the project structure and coding style as good as possible, and quality improvement is the final goal.
 
 The rich development experience of Node.js and Django can ensure maintainability and improvement with a well-designed structure and logic in back-end development.
-
 Because of a complete understanding of various libraries and Front-End frameworks based on JavaScript and TypeScript(React.js, Vue.js, AngularJS, Angular) there is no difficulty in development.
 
 
